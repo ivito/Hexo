@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 听听音乐写写代码
+title: 听音乐写文章 
 subtitle: 世上最可怕的就是，比你优秀的人却比你更努力！
 description:
 author: vito
@@ -79,6 +79,9 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
+plugins:
+- hexo-generat
+or-feed
 theme: jacman
 exclude_generator:
 
